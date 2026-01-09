@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="LINK_TO_YOUR_LOGO.png" width="120" alt="CPAI Logo" />
+  <img src="https://physicalai.ca/assets/logo-cpai.png" width="120" alt="CPAI Logo" />
   <h1>Canadian Physical AI Institute (CPAI)</h1>
   <p>
     <b>Bridging the gap between Canadian Academic Research and Industrial Reliability.</b>
@@ -28,5 +28,5 @@ The **Canadian Physical AI Institute** is an open research initiative focused on
 3.  **Academic-Industry Bridge:** Connecting Montreal's AI ecosystem with practical engineering.
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL">Contact Us</a> • <a href="LINK_TO_WEBSITE">Website</a> • <a href="LINK_TO_LINKEDIN">LinkedIn</a>
+  <a href="mailto:contact@physcialai.ca">Contact Us</a> • <a href="https://physicalai.ca/">Website</a> • <a href="https://www.linkedin.com/company/physicalaica/?viewAsMember=true">LinkedIn</a>
 </div>
