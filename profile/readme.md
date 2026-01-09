@@ -25,7 +25,7 @@ The **Canadian Physical AI Institute** is an open research initiative focused on
 ### 🤝 Strategic Pillars
 1.  **Reliability First:** We prioritize system uptime and data integrity over novel algorithms.
 2.  **Open Standards:** All tools are open-source (Apache 2.0) to encourage industry-wide adoption.
-3.  **Academic-Industry Bridge:** Connecting Montreal's AI ecosystem with practical engineering.
+3.  **Academic-Industry Bridge:** Connecting Canada's AI ecosystem with practical engineering.
 
 <div align="center">
   <a href="mailto:contact@physcialai.ca">Contact Us</a> • <a href="https://physicalai.ca/">Website</a> • <a href="https://www.linkedin.com/company/physicalaica/?viewAsMember=true">LinkedIn</a>
